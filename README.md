@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Chaitanya;Computer+Science+Student;DSA+%7C+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Chaitanya;Computer+Science+Student;DSA+%7C+Full+Stack+Developer" />
 </p>
 
 <p align="center">
-  <b>Passionate about innovative ideas and building strong solutions using core computer science concepts.</b>
+  <b>
+    I'm a passionate Computer Engineering undergraduate, driven by the art of transforming innovative ideas into impactful digital solutions through strong computer science fundamentals.
+  </b>
 </p>
+
 
 ---
 
@@ -58,22 +61,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanyabakare90&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=chaitanyabakare90&theme=tokyonight)
-
----
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=chaitanyabakare90&color=0ea5e9)
-
 ---
 
 ## 🤝 Let's Connect
