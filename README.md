@@ -24,16 +24,6 @@ cgpa: 8.38
 location: Pune, India
 ```
 
-- 🎓 Currently pursuing **B.Tech in Computer Science Engineering** at Pimpri Chinchwad College of Engineering, Pune (2023 – 2027)
-- 🛠️ Building full-stack apps with the **MERN stack**, deployed and hosted on **AWS**
-- 🧩 Solved **400+ Data Structures & Algorithms problems** on LeetCode
-- 🏆 **CodeChef 2★ Coder** — ranked **446 out of 19,000+** participants in CodeChef Starters 219
-- 📊 NPTEL "Python for Data Science" — **Elite + Top 2%**, IIT Madras
-- 🚀 Cleared the **Smart India Hackathon (SIH) 2025** internal round
-- 💬 Always exploring backend architecture, RESTful APIs, and clean OOP design
-
-<br>
-
 ## 🧰 Tech Stack
 
 **Languages**
@@ -87,54 +77,6 @@ location: Pune, India
 
 <br>
 
-## 🚀 Projects
-
-### 🏠 Airbnb Clone — Full-Stack Web Application
-`Jul 2025 – Aug 2025`
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS%20EC2%20%2F%20S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-- Engineered a scalable Airbnb-style full-stack web app using the MERN stack, with RESTful APIs for auth, property listings, and booking workflows
-- Implemented secure authentication and role-based access control (RBAC)
-- Structured the codebase using MVC architecture for modularity and scalability
-- Deployed on **AWS EC2**, with **Amazon S3** for scalable image/media storage
-
-### 🎯 Personalized Career Advisor — AI-Powered Advisory Platform
-`Oct 2025 – Nov 2025`
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
-
-- Built a digital career & education advisory platform for data-driven subject, course, and college selection
-- Designed aptitude-based recommendation logic and career path mapping with a government college directory
-- Built and deployed an AI-powered chatbot on Streamlit for real-time, personalized career guidance
-- Created interactive dashboards and progress trackers for academic decision-making
-
-### 📚 Smart Library Management System
-`Jun 2026 – Jul 2026`
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![OOP](https://img.shields.io/badge/-OOP-4B0082?style=flat-square)
-
-- Developed a console-based library management system in Java with full CRUD for books and members
-- Designed a borrowing/returning workflow with availability validation to prevent duplicate borrowing
-- Built multi-criteria search (title, author, category, ID) using well-encapsulated model classes
-- Implemented file handling to persist records across sessions and `Comparable` for ID-based sorting
-
-<br>
-
-## 🏆 Achievements
-
-- 🥇 **LeetCode Rating: 1721** — solved 400+ DSA problems in Java
-- 🥈 **CodeChef 2★ Coder** — peak rating **1557**
-- 📈 Ranked **446 / 19,000+** in CodeChef Starters Contest 219
-- 🎖️ **NPTEL – Python for Data Science** (Elite + Top 2%), IIT Madras — scored 87%
-- 🇮🇳 Cleared **Smart India Hackathon (SIH) 2025** Internal Hackathon
-
-<br>
-
 ## 💻 Coding Profiles
 
 <p>
@@ -143,20 +85,18 @@ location: Pune, India
   <a href="https://www.codechef.com/users/chaitu_2005"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 
-<img src="https://leetcard.jacoblin.cool/chaitanyabakare?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats" />
-
 <br>
 
 ## 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chaitanyabakare90&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyabakare90&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chaitanyabakare90&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyabakare90&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=8" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyabakare90&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyabakare90&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyabakare90&theme=redical&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyabakare90&theme=radical&hide_border=true&bg_color=00000000" alt="Contribution Graph" />
 
 <br><br>
 
