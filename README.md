@@ -17,11 +17,11 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Chaitanya Bakare
-role: Full Stack Developer (MERN) & CS Undergrad
-education: B.Tech, Computer Science Engineering @ PCCOE, Pune
-cgpa: 8.38
-location: Pune, India
+Name: Chaitanya Bakare
+Role: Full Stack Developer (MERN) & CS Undergrad
+Education: B.Tech, Computer Science Engineering @ PCCOE, Pune
+Cgpa: 8.38
+Location: Pune, India
 ```
 
 ## 🧰 Tech Stack
